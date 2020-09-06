@@ -8,3 +8,6 @@ I am currently using Python 3.7 through SPYDER IDE. This is downloaded with the 
  > GUI for vizualizing various sorting algorithms (Merge Sort, Quick Sort, Bubble Sort and Heap Sort)
  > Algorithms included: 
  > - Merge Sort
+ > - Bubble Sort
+ > - Quick Sort
+ > - Heap Sort
